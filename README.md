@@ -1,4 +1,4 @@
-# Festi'JS — [nom de votre festival]
+# Festi'JS — [Trhiller]
 
 > Remplissez ce fichier en séance 1. C'est votre premier commit.
 
@@ -6,21 +6,20 @@
 
 | Prénom NOM | Identifiant Git | Groupe |
 |------------|-----------------|--------|
-|            |                 |        |
+| Albertin MBOKO | 13Kurt      | CREA 2 |
 |            |                 |        |
 
 ### Répartition du travail
 
 _Qui tient quels fichiers ? À revoir toutes les 3-4 séances, en échangeant les rôles._
 
-- **[Nom 1] →**
-- **[Nom 2] →**
+- **[Albertin MBOKO] →**
 
 ## Le festival
 
-- **Thème :**
-- **En une phrase :**
-- **Blind test envisagé :** audio / vidéo — sur quoi ?
+- **Thème :*Horreur*
+- **En une phrase :*Basé sur la culture du monde de l'horreur au cinéma*
+- **Devine le film :*Deviner le nom du film. 3 manches et ceux qui on le plus de points se retrouveront en 1V1. Voyons voir si les gens on de la culture cinématographique*
 
 ## Lancer le projet
 
