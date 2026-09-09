@@ -1,4 +1,4 @@
-# Festi'JS — [Trhiller]
+# Festi'JS — [Thriller]
 
 > Remplissez ce fichier en séance 1. C'est votre premier commit.
 
