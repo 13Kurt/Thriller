@@ -41,4 +41,7 @@ Une ligne par séance. L'historique Git dit *qui* a fait *quoi* ; le journal dit
 
 | Séance | Ce qu'on a fait | Ce qui bloque |
 |--------|-----------------|---------------|
-| 1      |                 |               |
+| 1      | Réflexion de la |               |
+           mise en page
+           dus site.
+| 2      | Agencement      |               |
